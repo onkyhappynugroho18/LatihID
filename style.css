@@ -323,6 +323,7 @@ color: #393939;
     width: 600px;
     height: 400px;
     padding-top: 75px;
+    padding-left: 28%;
 }
 
 .hometeks{
@@ -385,5 +386,77 @@ left: 13.50%;
 right: 0%;
 top: 163.53%;
 bottom: 11.54%;
+
+}
+
+.lingkaran2 img{
+    /* Ellipse 12 */
+
+position: absolute;
+width: 120px;
+height: 120px;
+left: 466px;
+top: 665px;
+
+}
+
+.ikon2 img{
+    /* Vector */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 37.44%;
+    right: 0%;
+    top: 142.80%;
+    bottom: 11.54%;
+
+}
+
+.lingkaran3 img{
+    /* Ellipse 12 */
+
+position: absolute;
+width: 120px;
+height: 120px;
+left: 786px;
+top: 760px;
+
+}
+
+.ikon3 img{
+    /* Vector */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 61.30%;
+    right: 0%;
+    top: 162.80%;
+    bottom: 11.54%;
+
+}
+
+.lingkaran4 img{
+    /* Ellipse 12 */
+
+position: absolute;
+width: 120px;
+height: 120px;
+left: 1080px;
+top: 710px;
+
+}
+
+.ikon4 img{
+    /* Vector */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 83%;
+    right: 0%;
+    top: 108%;
+    bottom: 11.54%;
 
 }
